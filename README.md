@@ -13,7 +13,7 @@ El objetivo es el desarrollo de una aplicación web sencilla e intuitiva impleme
 ## 📸 Vista previa
 
 <p align="center">
-  <img src="./assets/screenshot.png" alt="Miniatura del proyecto" width="400">
+  <img src="./assets/amigoSecreto_miniatura.PNG" alt="Miniatura del proyecto" width="400">
 </p>
 ---
 
