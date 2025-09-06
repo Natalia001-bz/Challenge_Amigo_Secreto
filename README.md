@@ -4,6 +4,18 @@ Aplicación web sencilla que permite a los usuarios ingresar nombres de amigos e
 El objetivo es el desarrollo de una aplicación web sencilla e intuitiva implementando **JavaScript básico, CSS y HTML**, manipulación del DOM y validaciones de entrada de datos.
 
 ---
+## 🎬 Demo — Miniatura enlazada
+
+<p align="center">
+  ![Demo Amigo Secreto](./assets/Demo.gif)
+</p>
+
+<p align="center">
+  <em>### 📸 Vista previa
+</em>
+</p>
+![Miniatura del proyecto](./assets/screenshot.png)
+
 
 ## 📌 Características
 
