@@ -10,13 +10,6 @@ El objetivo es el desarrollo de una aplicación web sencilla e intuitiva impleme
   <img src="./assets/Demo.gif" alt="Demo Amigo Secreto" width="500">
 </p>
 
-## 📸 Vista previa
-
-<p align="center">
-  <img src="./assets/amigoSecreto_miniatura.PNG" alt="Miniatura del proyecto" width="400">
-</p>
----
-
 
 ## 📌 Características
 
